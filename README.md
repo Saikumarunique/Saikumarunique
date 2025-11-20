@@ -56,12 +56,10 @@ I'm a passionate Full Stack Developer who loves building scalable and user-frien
 - Built using **React**
 - Users can create, update, delete tasks
 - Responsive and clean UI  
-👉 *(Add Link Here)*
 
 ### ⭐ Spring Boot REST API
 - CRUD operations  
 - MySQL integration  
-👉 *(Add Link Here)*
 
 ---
 
